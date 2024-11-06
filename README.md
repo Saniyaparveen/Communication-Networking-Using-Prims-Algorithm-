@@ -6,5 +6,5 @@ The project aims to demonstrate how Prim's algorithm can be utilized to create a
 effective communication network topology, minimizing the overall construction and Maintenance expenses 
 While ensuring reliable connectivity. 
 
-Language:C++
-
+Language:C++ 
+ 
